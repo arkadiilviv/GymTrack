@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymTrack", "GymTrack\GymTrack.csproj", "{717873D1-ED0A-4D89-86B0-0E591EE64497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717873D1-ED0A-4D89-86B0-0E591EE64497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717873D1-ED0A-4D89-86B0-0E591EE64497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717873D1-ED0A-4D89-86B0-0E591EE64497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717873D1-ED0A-4D89-86B0-0E591EE64497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22B121F8-F3C0-4F23-8F04-FA3E087E1A6E}
+	EndGlobalSection
+EndGlobal
